@@ -2,7 +2,7 @@
 
 set -e
 
-DOCKER_IMAGE_NAME=raniemi/sceptre
+DOCKER_IMAGE_NAME=frc9/sceptre
 
 : "${VERSION:?Need to set VERSION}"
 

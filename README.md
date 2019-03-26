@@ -1,5 +1,5 @@
 # sceptre
-This is the repository of the raniemi/sceptre docker image found in Docker Hub
+This is the repository of the frc9/sceptre docker image found in Docker Hub. Working version of sceptre with this control framework is 1.4.1.
 
 # Prerequisites
 
